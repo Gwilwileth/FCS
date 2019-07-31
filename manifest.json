@@ -2,7 +2,7 @@
   "name": "Fickwriter cheat sheet",
   "short_name": "FCS",
   "lang": "en-US",
-  "start_url": "/FCS",
+  "start_url": "/FCS/",
   "display": "standalone",
   "theme_color": "#75E6F3",
   "background_color": "#75E6F3",
