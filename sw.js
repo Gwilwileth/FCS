@@ -2,7 +2,7 @@
 
 importScripts('sw-toolbox.js');
 
-// toolbox.precache(["index.html","css/style.css"]);
+ toolbox.precache(["./index.html"]);
 
 // toolbox.router.get('./icons/*', toolbox.cacheFirst);
 
